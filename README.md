@@ -1,1 +1,1 @@
-# Chest-X-Ray](https://github.com/7AyushDas/chest_x_ray
+# Implemented XCEPTION,VGG16 model in x_ray images to predict person is having pneumonia
